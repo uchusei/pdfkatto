@@ -1,4 +1,4 @@
-# pdfkatto
+# katto
 
 Small Python CLI utility for common PDF page operations. Designed for simple workflows when working with print PDFs, scans, or page spreads.
 
@@ -16,25 +16,25 @@ Small Python CLI utility for common PDF page operations. Designed for simple wor
 
 ## Usage
 
-Place your PDF in the same folder as `pdfkatto.py`.
+Place your PDF in the same folder as `katto.py`.
 
 
 **1. Trim a print PDF to its TrimBox:**
 
 ```
-python3 pdfkatto.py trim doc.pdf
+python3 katto.py trim doc.pdf
 ```
 
 **2. Remove whitespace margins:**
 
 ```
-python3 pdfkatto.py crop doc.pdf
+python3 katto.py crop doc.pdf
 ```
 
 **3. Split spreads into individual pages:**
 
 ```
-python3 pdfkatto.py split doc.pdf
+python3 katto.py split doc.pdf
 ```
 
 Output files are saved next to the input file:
