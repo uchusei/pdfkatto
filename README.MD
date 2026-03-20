@@ -1,3 +1,5 @@
+![katto](assets/katto-readme-promo.svg)
+
 # katto
 
 Small Python CLI utility for common PDF page operations. Designed for simple workflows when working with print PDFs, scans, or page spreads.
