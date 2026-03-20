@@ -1,4 +1,4 @@
-![katto](assets/katto-readme-promo.svg)
+![katto](assets/katto-readme-promo.png)
 
 # katto
 
